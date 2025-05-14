@@ -1,2 +1,4 @@
 # ghana-sample-repo
-this is for the best ghana data scientist
+-This is for the best ghana data scientist
+- Welcome to my repo
+- This is the best
