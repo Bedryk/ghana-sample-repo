@@ -11,3 +11,11 @@
 ### three level heading
 
 #### Four level heading
+
+# Bold
+
+**This is the new world**
+
+# Italicized
+_this is second world_
+
