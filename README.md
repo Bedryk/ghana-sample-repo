@@ -19,3 +19,14 @@
 # Italicized
 _this is second world_
 
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
