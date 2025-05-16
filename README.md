@@ -51,3 +51,15 @@ print("Hello world")
 | Name         | Role          | Living           |
 |--------------|---------------|------------------|
 
+
+# list
+
+- [x] Complete Markdown lecture
+- [x] Prepare assignments
+- [ ] Review student submissions
+
+# Horizontal Line
+
+---
+
+***
