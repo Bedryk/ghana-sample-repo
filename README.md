@@ -41,4 +41,9 @@ _this is second world_
 
 [SayOui](https://sayoui.org/)
 
-![Sayoui](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educba.com%2Ftypes-of-computer-language%2F&psig=AOvVaw1oMcm1OV2sHSHGFPPwPjql&ust=1747470927963000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDnudLKp40DFQAAAAAdAAAAABAE)
+
+# Code and Syntax
+
+'''python
+print("Hello world")
+'''
