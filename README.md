@@ -43,7 +43,6 @@ _this is second world_
 
 
 # Code and Syntax
-
-'''python
+```python
 print("Hello world")
-'''
+```
